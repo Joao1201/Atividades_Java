@@ -16,8 +16,8 @@ final imprimir a média dos números múltiplos de 3. Para sair digitar
 			i = entrada.nextInt();
 			
 			if(i%3==0) {
-				a = a+1;
 				num = num+i;
+				a++;
 			}
 		}while(i!=0);
 		

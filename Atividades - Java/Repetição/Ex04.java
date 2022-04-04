@@ -24,7 +24,7 @@ pessoas, calcule e mostre: (WHILE)
 		System.out.println("  PESQUISA DE CARACTERÍSTICAS  ");
 		System.out.println();
 		
-		while(i<=5) {
+		while(i<=150) {
 			System.out.print("Digite sua idade: ");
 			idade = entrada.nextInt();
 			System.out.print("Digite seu sexo (1)Feminino, (2)Masculino ou (3)Outros: ");
